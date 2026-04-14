@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useMemo, useState } from "react";
 
 type Goal = "low_cal" | "lean" | "anabolic" | "bulk";
