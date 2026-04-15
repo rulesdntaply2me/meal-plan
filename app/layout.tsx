@@ -1,3 +1,5 @@
+import React from "react";
+
 export const metadata = {
   title: "Sclass Savory App",
   description: "Savory meal builder for Sclass Fitness",
